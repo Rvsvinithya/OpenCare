@@ -140,9 +140,6 @@ OpenCare aims to:
 - S Lokesh  
  
 Guide: Dr. A.V. Krishna Prasad  
-Department of Information Technology  
-M.V.S.R Engineering College  
- 
 ---
  
 ## 📜 License
