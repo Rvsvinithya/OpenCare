@@ -138,8 +138,10 @@ OpenCare aims to:
 - T Vineethya  
 - S Navneet  
 - S Lokesh  
- 
-Guide: Dr. A.V. Krishna Prasad  
+Guide: Dr. A.V. Krishna Prasad
+
+
+
 ---
  
 ## 📜 License
